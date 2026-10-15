@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+# 编辑器 / 本地设置
+.vscode/
+.idea/
+.claude/settings.local.json
+# 依赖与构建产物
+node_modules/
+__pycache__/
+.venv/
+dist/
+build/
+.env
